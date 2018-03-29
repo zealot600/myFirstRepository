@@ -2,3 +2,7 @@ Git CloneÇÏ¿© ÀÛ¾÷ÇÏ°í ÀÖÀ» ¶§, ´Ù¸¥ »ç¶÷ÀÌ Push¸¦ ÇÏ¿© ¿ø°Ý ÀúÀå¼Ò¸¦ ¾÷µ¥ÀÌÆ® Ç
      ÀÌÈÄ¿¡ ³»°¡ Push¸¦ ¿äÃ» ÇßÀ» ¶§ °ÅºÎµÇ¾î ¹ö¸³´Ï´Ù.
      ÀÌ·± °æ¿ì MergeÀÛ¾÷À» ÁøÇàÇÏ¿© ´Ù¸¥ »ç¶÷ÀÇ ¾÷µ¥ÀÌÆ® ÀÌ·ÂÀ» ³» ·ÎÄÃ ÀúÀå¼Ò¿¡µµ °»½Å ÇØ¾ß ÇÕ´Ï´Ù.
       ÀÌ ¶§ Merge±â´ÉÀ» ÀÌ¿ëÇÏ¸é GitÀÌ ¾Ë¾Æ¼­ º¯°æ »çÇ×À» ÅëÇÕ ÇØ ÁÝ´Ï´Ù.
+
+checkout
+ : ÀÌÁ¦ºÎÅÍ ÀÌ ºê·£Ä¡¸¦ »ç¿ë ÇÒ°Å¾ß !
+--> ³»°¡ »ç¿ë ÇÒ ºê·£Ä¡¸¦ ÁöÁ¤ ÇÏ´Â °Í
