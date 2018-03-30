@@ -8,3 +8,4 @@ checkout
 --> 내가 사용 할 브랜치를 지정 하는 것
 
 수정test01
+수정test02 desktop
